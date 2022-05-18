@@ -6,3 +6,6 @@
 - git remote add origin [新しいリモートリポジトリURL]
 - git remote set-url origin [新しいリモートリポジトリURL] //変更する場合
 - git push -u origin main
+
+# 注意事項
+- githubでレポジトリ作った時にreadmeも合わせて作っていたら先にしないといけないことが増える
