@@ -11,7 +11,7 @@
 ### 注意事項
 - githubでレポジトリ作った時にreadmeも合わせて作っていたら先にしないといけないことが増える
 
-#その他
+# その他
 - git remote -v //今いるremote URLの確認
 - git remote set-url origin {new url} //新しいremote URLに変更
 
