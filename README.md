@@ -19,3 +19,9 @@
 - git branch //ブランチの一覧が見れるコマンド
 - git push origin develop //developブランチからGithub上のoriginブランチにpushする
 
+# gitのブランチ名をmasterからmainに変更する
+- git branch -m master main //ブランチ名の変更
+- git push -u origin main //変更したブランチのpush
+- github上でデフォルトブランチの変更
+- git push origin --delete master //masterブランチの削除のpush
+
