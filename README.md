@@ -8,7 +8,7 @@
 - git remote set-url origin [新しいリモートリポジトリURL] //変更する場合
 - git push -u origin main
 - git push //一度登録した場合はこれ
-一度やれば、add,commit,pushの繰り返し
+- 一度やれば、add,commit,pushの繰り返し
 
 ### 注意事項
 - githubでレポジトリ作った時にreadmeも合わせて作っていたら先にしないといけないことが増える
